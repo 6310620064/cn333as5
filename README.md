@@ -1,5 +1,8 @@
 # CN333_Assignment 5
 
+## ชื่อ : นางสาวภวิศา สิริโรจน์วรกุล
+## เลขทะเบียนนักศึกษา : 6310620064
+
 ## Android App : PhoneBook
 - เบอร์โทรศัพท์เรียงตามรายชื่อ
 - สามารถTagเบอร์เป็นประเภทต่างๆ เช่น Home , Work , Mobile
@@ -36,5 +39,3 @@ LinkVideo=> [Click_Here]
 <img src = "Colorpicker.png" alt ="Colorpicker" width = "25%" Height ="25%">
 
 
-## ชื่อ : นางสาวภวิศา สิริโรจน์วรกุล
-## เลขทะเบียนนักศึกษา : 6310620064
