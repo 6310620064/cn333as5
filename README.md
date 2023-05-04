@@ -16,18 +16,23 @@ LinkVideo=> [Click_Here]
 # ตัวอย่าง Display Android App
 
 เมื่อเริ่ม start app ขึ้นมา
+
 <img src = "display.png" alt ="Display" width = "25%" Height ="25%">
 
 เมื่อกดเพิ่มcontact เบอร์เพิ่ม
+
 <img src = "add.png" alt ="add" width = "25%" Height ="25%">
 
 เมื่อกดปุ่มdelete จะมีข้อความให้ยืนยันในการจะลบอีกครั้งนึง
+
 <img src = "delete.png" alt ="delete" width = "25%" Height ="25%">
 
 เมื่อต้องการเลือกTag ต่างๆ
+
 <img src = "Tagpicker.png" alt ="Tagpicker" width = "25%" Height ="25%">
 
 เมื่อต้องการเลือกสีต่างๆ
+
 <img src = "Colorpicker.png" alt ="Colorpicker" width = "25%" Height ="25%">
 
 
